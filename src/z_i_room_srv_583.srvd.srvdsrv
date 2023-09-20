@@ -1,0 +1,4 @@
+@EndUserText.label: 'Room'
+define service Z_I_ROOM_SRV_583 {
+  expose Z_I_ROOM_583 as Room;
+}
